@@ -4,7 +4,7 @@ export default function footer(){
       <footer className="footer">
         <div className="container">
             <p className="text-center">
-                &copy;{new Date().getFullYear()} - Todo los derechos reservados
+                &copy; {new Date().getFullYear()} - Todo los derechos reservados
             </p>
         </div> 
       </footer>
